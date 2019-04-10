@@ -11,7 +11,7 @@ File : notebooks/01-pyplayground.ipynb
 File : notebooks/02-mnist-nn.ipynb  
 ### Lab 4 : Image classification with Convolution NN : MNIST
 File : notebooks/03-mnist-cnn-lenet.ipynb  
-### Lab 5 : Model tunining : From MNISY to Fashion MNIST
+### Lab 5 : Model tunining : From MNIST to Fashion MNIST
 File : notebooks/04-fashion-cnn-lenet-transfer.ipynb
 
 
